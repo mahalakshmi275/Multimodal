@@ -25,6 +25,7 @@ Health Advisor: Analyzes food images to estimate calorie content and nutritional
 # Clone the repository:
 
 git clone https://github.com/yourusername/MULTI-MODAL-VOICE-ASSISTANCE.git
+
 cd MULTI-MODAL-VOICE-ASSISTANCE
 
 # Create and activate a virtual environment:
@@ -67,8 +68,6 @@ Voice mode activation
 # Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgments
 Google for the Gemini AI models
