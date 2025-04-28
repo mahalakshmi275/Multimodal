@@ -46,6 +46,9 @@ Run the application:
 
 streamlit run voice.py
 
+# File Structure 
+
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/289e2406-f445-4582-99c5-24f9f5c50dbc" />
 
 # Use the sidebar to enable/disable different modules:
 
@@ -77,7 +80,4 @@ Streamlit for the web application framework
 All open-source libraries used in this project
 
 
-# File Structure 
-
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/289e2406-f445-4582-99c5-24f9f5c50dbc" />
 
